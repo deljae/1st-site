@@ -12,8 +12,10 @@
     </head>
     <body>
         <h1>A Little About Me: Dylan</h1>
-        <p> I am triple majoring in Journalism, Political Science, and International Affairs. I previously attended SJDC in Stockton where I was feature editor and editor-in-chief for The Collegian. My goal is to get into a dual degree program for International Law and International Relations in Madrid, and am currently studying for the LSAT for admissions requirement; as well as trying to find time to study Spanish, though I know I need to study German for a class.</p>
-        <p>I have two cats, Ricky and Elphie and one dog, Jack (who lives with my parents in California), as well as, my roomate has one cat, Prismo, and a jumping spider who she just adopted, Penelope. I am heavily considering addopting a gecko or a skink, and my roomate is not being helpful by encouraging this idea.</p>
+        <p> I am triple-majoring in Journalism, Political Science, and International Affairs. I previously attended SJDC in Stockton, where I was feature editor and editor-in-chief for The Collegian. My goal is to get into a dual degree program for International Law and International Relations in Madrid, and I am currently studying for the LSAT for admissions requirements, as well as trying to find time to study Spanish.</p>
+        <h4> My Current Portfolio </h4>
+        <p>This is a link to my current portfolio (though I am likely to make a new one). It includes stories, design, and photography. (I figure this can serve as a change/add-on to my previous code.)
+        <p>I have two cats, Ricky and Elphie, and one dog, Jack (who lives with my parents in California), as well as my roommate, who has one cat, Prismo, and a jumping spider whom she just adopted, Penelope. I am heavily considering adopting a gecko or a skink, and my roommate is not being helpful by encouraging this idea.</p>
             <a data-flickr-embed="true" href="https://www.flickr.com/photos/201921257@N07/54812731410/in/dateposted-public/" title="Prismo">
             <img src="https://live.staticflickr.com/65535/54812731410_d0303d8f1f_q.jpg" width="150" height="150" alt="Prismo"/></a><h5>Prismo</h5>
             <a data-flickr-embed="true" href="https://www.flickr.com/photos/201921257@N07/54812648424/in/dateposted-public/" title="Elphie">
@@ -22,7 +24,7 @@
             <img src="https://live.staticflickr.com/65535/54812731400_5f61fc0ae4_q.jpg" width="150" height="150" alt="Ricky"/></a><h5>Ricky</h5>
             <a data-flickr-embed="true" href="https://www.flickr.com/photos/201921257@N07/54811542887/in/dateposted-public/" title="jack">
             <img src="https://live.staticflickr.com/65535/54811542887_8a82f0877d_q.jpg" width="150" height="150" alt="jack"/></a><h5>Jack</h5>
-        <p>I am a bit of a language nerd and have studied over 25 languages in my life. However, I am monolingual still. I tend to get distracted by the idea of another language and then forget all of the basics of the language I was previously studying when I begin another. I try to limit myself to studying only 2 languages at a time, however this rarely happens, now is an example of that.</p>
+        <p>I am a bit of a language nerd and have studied over 25 languages in my life. However, I am still monolingual. I tend to get distracted by the idea of another language and then forget all of the basics of the language I was previously studying when I begin another. I try to limit myself to studying only two languages at a time; however, this rarely happens. Now is an example of that.</p>
         <h3>Languages I am Currently Studying (with links to my current favorite songs in those languages)</h3>
         <ul> 
             <li>German: <a href= "https://www.youtube.com/watch?v=L6hu4qbUMsA"> Zoë Më - Durch die Nacht</a></li>
