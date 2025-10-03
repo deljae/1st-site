@@ -33,4 +33,6 @@
         <a href="https://deljaekel.wordpress.com/"> My Portfolio</a>
         </ul>
     <h1> Thank You For Visiting My First HTML!</h1>
+</body>
+</html>
 
